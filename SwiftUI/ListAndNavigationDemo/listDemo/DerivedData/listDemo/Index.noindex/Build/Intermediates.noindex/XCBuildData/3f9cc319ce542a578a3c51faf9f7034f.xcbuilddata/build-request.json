@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "9a7572de103299990f301b1dda79788c18a201b9a817233a460c4a6c38d6a677"
+    }
+  ],
+  "containerPath" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Build/Products",
+      "pchPath" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

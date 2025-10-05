@@ -1,0 +1,25 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "931ea957b1b01dd1b65f3b685a8f6802723f03e5fa6051a7b8fff6ea940df08f"
+build_start_time: [1696105186, 346372000]
+build_end_time: [1696105186, 351967000]
+inputs:
+  ? "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/listDemo.build/Debug-iphonesimulator/listDemo.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1696105186, 262021865]
+  ? "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/AppDelegate.swift"
+  : !dirty [1679754854, 278487909]
+  ? "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/BundleDecoder.swift"
+  : !dirty [1679754854, 286080109]
+  ? "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/Model/Landmarks.swift"
+  : !dirty [1679754854, 286367447]
+  ? "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/SceneDelegate.swift"
+  : !dirty [1679754854, 286574575]
+  ? "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/View/ContentView.swift"
+  : !dirty [1679754854, 286682577]
+  ? "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/View/GreetingsView/CircleImage.swift"
+  : !dirty [1679754854, 286791953]
+  ? "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/View/GreetingsView/WelcomeView.swift"
+  : !dirty [1679754854, 286868913]
+  ? "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/View/LandmarkDetailView.swift"
+  : !dirty [1679754854, 286928039]
+  ? "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/View/LandmarkRow.swift"
+  : !dirty [1679754854, 286990623]

@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/listDemo.build/Debug-iphoneos/listDemoTests.build/Objects-normal/arm64/listDemoTests-master.d",
+    "diagnostics" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/listDemo.build/Debug-iphoneos/listDemoTests.build/Objects-normal/arm64/listDemoTests-master.dia",
+    "emit-module-dependencies" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/listDemo.build/Debug-iphoneos/listDemoTests.build/Objects-normal/arm64/listDemoTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/listDemo.build/Debug-iphoneos/listDemoTests.build/Objects-normal/arm64/listDemoTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/listDemo.build/Debug-iphoneos/listDemoTests.build/Objects-normal/arm64/listDemoTests-master.swiftdeps"
+  },
+  "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemoTests/listDemoTests.swift" : {
+
+  }
+}

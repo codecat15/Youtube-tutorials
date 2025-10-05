@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1BBB469C-E4B2-445A-B416-B68807A80C6B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1BBB469C-E4B2-445A-B416-B68807A80C6B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>listDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>listDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build listDemo</string>
+			<key>timeStartedRecording</key>
+			<real>717855569.13733304</real>
+			<key>timeStoppedRecording</key>
+			<real>717855569.61325896</real>
+			<key>title</key>
+			<string>Build listDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>1BBB469C-E4B2-445A-B416-B68807A80C6B</string>
+		</dict>
+		<key>B3D014CF-0BF8-434F-B7BE-F2AD23AE9070</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B3D014CF-0BF8-434F-B7BE-F2AD23AE9070.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>listDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>listDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build listDemo</string>
+			<key>timeStartedRecording</key>
+			<real>717855573.61569905</real>
+			<key>timeStoppedRecording</key>
+			<real>717855573.73336005</real>
+			<key>title</key>
+			<string>Build listDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>B3D014CF-0BF8-434F-B7BE-F2AD23AE9070</string>
+		</dict>
+		<key>F8EC8425-E18C-4276-9592-0E814692C2E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F8EC8425-E18C-4276-9592-0E814692C2E6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>listDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>listDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build listDemo</string>
+			<key>timeStartedRecording</key>
+			<real>717798141.95738101</real>
+			<key>timeStoppedRecording</key>
+			<real>717798154.42200899</real>
+			<key>title</key>
+			<string>Build listDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>F8EC8425-E18C-4276-9592-0E814692C2E6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

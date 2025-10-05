@@ -1,0 +1,39 @@
+{
+  "" : {
+    "dependencies" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/listDemo.build/Debug-iphonesimulator/listDemo.build/Objects-normal/arm64/listDemo-master.d",
+    "diagnostics" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/listDemo.build/Debug-iphonesimulator/listDemo.build/Objects-normal/arm64/listDemo-master.dia",
+    "emit-module-dependencies" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/listDemo.build/Debug-iphonesimulator/listDemo.build/Objects-normal/arm64/listDemo-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/listDemo.build/Debug-iphonesimulator/listDemo.build/Objects-normal/arm64/listDemo-master-emit-module.dia",
+    "swift-dependencies" : "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/listDemo.build/Debug-iphonesimulator/listDemo.build/Objects-normal/arm64/listDemo-master.swiftdeps"
+  },
+  "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/DerivedData/listDemo/Index.noindex/Build/Intermediates.noindex/listDemo.build/Debug-iphonesimulator/listDemo.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/AppDelegate.swift" : {
+
+  },
+  "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/BundleDecoder.swift" : {
+
+  },
+  "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/Model/Landmarks.swift" : {
+
+  },
+  "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/SceneDelegate.swift" : {
+
+  },
+  "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/View/ContentView.swift" : {
+
+  },
+  "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/View/GreetingsView/CircleImage.swift" : {
+
+  },
+  "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/View/GreetingsView/WelcomeView.swift" : {
+
+  },
+  "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/View/LandmarkDetailView.swift" : {
+
+  },
+  "/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/View/LandmarkRow.swift" : {
+
+  }
+}

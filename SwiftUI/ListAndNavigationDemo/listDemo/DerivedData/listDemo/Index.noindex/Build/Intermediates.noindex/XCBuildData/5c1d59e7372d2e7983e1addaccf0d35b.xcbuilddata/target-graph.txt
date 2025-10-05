@@ -1,0 +1,8 @@
+Target dependency graph (5 targets)
+Target 'listDemoTests' in project 'listDemo' (no dependencies)
+Target 'listDemoTests' in project 'listDemo'
+➜ Explicit dependency on target 'listDemo' in project 'listDemo'
+Target 'listDemoTests' in project 'listDemo'
+➜ Explicit dependency on target 'listDemo' in project 'listDemo'
+Target 'listDemo' in project 'listDemo' (no dependencies)
+Target 'listDemo' in project 'listDemo' (no dependencies)

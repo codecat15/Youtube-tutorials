@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameGaneshJi</string>
+			<key>relativePath</key>
+			<string>./GaneshJi.imageset</string>
+			<key>swiftSymbol</key>
+			<string>ganeshJi</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameOriginal</string>
+			<key>relativePath</key>
+			<string>./Original.imageset</string>
+			<key>swiftSymbol</key>
+			<string>original</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameSinhgad</string>
+			<key>relativePath</key>
+			<string>./Sinhgad.imageset</string>
+			<key>swiftSymbol</key>
+			<string>sinhgad</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameGoi</string>
+			<key>relativePath</key>
+			<string>./goi.imageset</string>
+			<key>swiftSymbol</key>
+			<string>goi</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/codecat15/Documents/Github Repository/YouTube-demos/Youtube-tutorial/SwiftUI/ListAndNavigationDemo/listDemo/listDemo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameMd</string>
+			<key>relativePath</key>
+			<string>./md.imageset</string>
+			<key>swiftSymbol</key>
+			<string>md</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
